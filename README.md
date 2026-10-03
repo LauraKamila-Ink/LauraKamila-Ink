@@ -6,31 +6,36 @@
 
 ![TGCF Banner](https://i.pinimg.com/originals/4d/72/ab/4d72ab629901c5124ebc237e333d432c.gif)
 
-***
+---
 
 ### 🏮 About Me (⁠◕⁠‿⁠◕⁠✿⁠)
 
-* 📜 **Student & Learner:** Currently studying and building my foundation in software development step by step (⁠o⁠^⁠^⁠o⁠)
-* 🧧 **Aspiring Backend Developer:** Passionate about learning server-side logic, data structures, and how dynamic websites work 🐉
-* 🎴 **English Learner:** Actively practicing my English every day to read documentation and grow globally (⁠人⁠•͈⁠ᴗ⁠•͈⁠)
+* 📜 **Systems Engineering Student:** Currently studying Software Engineering fundamentals and building my skills through academic and personal projects.
+* 🐉 **Aspiring Backend Developer:** Focusing on Java and learning how to design APIs, business logic, and data-driven applications.
+* 🎨 **Artist & Developer:** I enjoy combining programming, visual design, and illustration to create projects with their own personality.
+* 🎴 **English Learner:** Actively improving my English to read technical documentation and communicate in international environments.
 
 ---
 
 ### 🪭 Academic & Learning Focus (⁠✧⁠ω⁠✧⁠)
 
-* 🐉 **Backend Engineering:** Exploring how server architectures, APIs, and data flow work behind the scenes.
-* ⛩️ **Dynamic Web Systems:** Studying methods to create interactive, responsive, and data-driven web applications.
-* 🍁 **Database Management:** Learning relational and non-relational database design and queries.
-* 📜 **Continuous Growth:** Dedicated to improving my problem-solving skills and academic knowledge every day.
+* 🐉 **Backend Engineering:** Focusing on Java, Spring Boot, REST APIs, and backend architecture.
+* ⛩️ **Web Development:** Learning how frontend applications communicate with backend services and databases.
+* 🍁 **Database Management:** Working with relational databases, SQL, database design, and PostgreSQL.
+* 📜 **Software Development:** Strengthening programming fundamentals, problem-solving, algorithms, and software engineering practices.
+* 🎨 **Creative Development:** Exploring the combination of programming, UI design, and illustration in personal projects.
 
 ---
 
 ### 🧧 Skills I'm Currently Learning (⁠╯⁠✧⁠∇⁠✧⁠)⁠╯
 
-| Category | Topics & Technologies in Progress |
-| :--- | :--- |
-| **Backend & Web Development 🐉** | `Java` `Node.js` `Express` `Python` `REST APIs` `Dynamic Webs` |
-| **Databases & Developer Tools ⛩️** | `PostgreSQL` `MongoDB` `Git` `GitHub` `Linux` |
+| Category         | Topics & Technologies in Progress                     |
+| :--------------- | :---------------------------------------------------- |
+| **Backend 🐉**   | `Java` `Spring Boot` `REST APIs`                      |
+| **Frontend 🎨**  | `HTML` `CSS` `JavaScript` `Angular` `TypeScript`      |
+| **Databases ⛩️** | `PostgreSQL` `SQL`                                    |
+| **Mobile 📱**    | `Flutter` `Dart`                                      |
+| **Tools 🔧**     | `Git` `GitHub` `Linux`                                |
 | **Languages 🎴** | `Spanish (Native)` · `English (Actively Learning 🧧)` |
 
 ---
