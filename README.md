@@ -35,7 +35,7 @@
 | **Frontend 🎨**  | `HTML` `CSS` `JavaScript` `Angular` `TypeScript`      |
 | **Databases ⛩️** | `PostgreSQL` `SQL`                                    |
 | **Mobile 📱**    | `Flutter` `Dart`                                      |
-| **Tools 🔧**     | `Git` `GitHub` `Linux`                                |
+| **Tools 🔧**     | `Git` `GitHub`                                        |
 | **Languages 🎴** | `Spanish (Native)` · `English (Actively Learning 🧧)` |
 
 ---
