@@ -8,7 +8,7 @@
 
 ---
 
-### 🏮 About Me (⁠◕⁠‿⁠◕⁠✿⁠)
+### 🏮 About Me
 
 * 📜 **Systems Engineering Student:** Currently studying Software Engineering fundamentals and building my skills through academic and personal projects.
 * 🐉 **Aspiring Backend Developer:** Focusing on Java and learning how to design APIs, business logic, and data-driven applications.
@@ -17,8 +17,7 @@
 
 ---
 
-### 🪭 Academic & Learning Focus (⁠✧⁠ω⁠✧⁠)
-
+### 🪭 Academic & Learning Focus
 * 🐉 **Backend Engineering:** Focusing on Java, Spring Boot, REST APIs, and backend architecture.
 * ⛩️ **Web Development:** Learning how frontend applications communicate with backend services and databases.
 * 🍁 **Database Management:** Working with relational databases, SQL, database design, and PostgreSQL.
@@ -27,7 +26,7 @@
 
 ---
 
-### 🧧 Skills I'm Currently Learning (⁠╯⁠✧⁠∇⁠✧⁠)⁠╯
+### 🧧 Skills I'm Currently Learning
 
 | Category         | Topics & Technologies in Progress                     |
 | :--------------- | :---------------------------------------------------- |
@@ -40,6 +39,6 @@
 
 ---
 
-### 🏮(⁠*⁠´⁠ω⁠｀⁠*⁠)
+### 🏮┐(￣ヘ￣)┌
 
 </div>
