@@ -30,14 +30,27 @@
 
 ### 🧧 Skills I'm Currently Learning
 
-| Category         | Topics & Technologies in Progress                     |
-| :--------------- | :---------------------------------------------------- |
-| **Backend 🐉**   | `Java` `Spring Boot` `REST APIs`                      |
-| **Frontend 🎨**  | `HTML` `CSS` `JavaScript` `Angular` `TypeScript`      |
-| **Databases ⛩️** | `PostgreSQL` `SQL`                                    |
-| **Mobile 📱**    | `Flutter` `Dart`                                      |
-| **Tools 🔧**     | `Git` `GitHub`                                        |
-| **Languages 🎴** | `Spanish (Native)` · `English (Actively Learning 🧧)` |
+<table>
+<tr>
+<td width="75%" valign="middle">
+
+| Category | Topics & Technologies in Progress |
+| :--- | :--- |
+| **Backend 🐉** | `Java` `Spring Boot` `REST APIs` |
+| **Frontend 🎨** | `HTML` `CSS` `JavaScript` `Angular` `TypeScript` |
+| **Databases ⛩️** | `PostgreSQL` `SQL` |
+| **Mobile 📱** | `Flutter` `Dart` |
+| **Tools 🔧** | `Git` `GitHub` |
+| **Languages 🎴** | Spanish (Native) · English (Learning) |
+
+</td>
+<td width="25%" valign="middle" align="center">
+
+<img width="571" height="570" alt="Screenshot 2026-10-14 205349" src="https://github.com/user-attachments/assets/ff3b1602-6006-47a1-8766-77654c46bb95" />
+
+</td>
+</tr>
+</table>
 
 ---
 
