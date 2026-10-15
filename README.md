@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="1046" height="81" alt="Screenshot 2026-10-14 204218" src="https://github.com/user-attachments/assets/58c12036-743e-4aa6-b66a-330c65bb8293" />
+
 # 🏮 Hi there, I'm Lau! (⁠*⁠˘⁠︶⁠˘⁠*⁠)⁠.⁠｡⁠*⁠: 🧧
 
 > *"Body in the abyss, heart in paradise."* — 天官赐福 (Tian Guan Ci Fu) 🥀
@@ -40,5 +42,7 @@
 ---
 
 ### 🏮┐(￣ヘ￣)┌
+
+<img width="1046" height="81" alt="Screenshot 2026-10-14 204218" src="https://github.com/user-attachments/assets/7a69821b-3dcb-4980-9a74-c49e578f5b40" />
 
 </div>
