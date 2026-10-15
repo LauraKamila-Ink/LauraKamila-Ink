@@ -52,8 +52,6 @@
 </tr>
 </table>
 
----
-
 ### 🏮┐(￣ヘ￣)┌
 
 <img width="1046" height="81" alt="Screenshot 2026-10-14 204218" src="https://github.com/user-attachments/assets/7a69821b-3dcb-4980-9a74-c49e578f5b40" />
